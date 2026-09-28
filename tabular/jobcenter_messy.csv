@@ -1,159 +1,125 @@
-borgernummer,alder,koen,kommune,ydelse,ledighed_mdr,sidste_kontakt
-B0001,38,, Odense,dagpenge,21,28-06-2025
-B0002,27, Mand,Odense,dagpenge,12,07-09-2024
-B0003,43,Mand, Aarhus,kontanthjaelp,53,
-B0004,59,Andet,København,uddannelseshjaelp,56,27-09-2024
-B0005,21,Mand,Aarhus,kontafthjaelp,,04-01-2024
-B0006,68,,København,dagpenge,,12-04-2025
-B0007,52,Mand,Aalborg,,40,12-03-2024
-B0008,24, Andet ,København,kontanthjaelp,,30-05-2025
-B0009,41,,Odense,uddannelseshjaelp,,04-04-2024
-B0010,55,Andet,København,dagpenge,22,22-06-2025
-B0011,21,Mand,aalborg,,,08-03-2024
-B0012,50,Mand,Vejle,kontanthjaelp,53,30-04-2025
-B0013,31,Andet,Vejle,uddannelseshjaelp,,15-09-2024
-B0014,20, Mand,Aarhus,,0,17-03-2024
-B0015,23,Kvinde,Aalborg,,4,28-09-2024
-B0016,45,Kvinde,Randers,,40,28-08-2024
-B0017,44,kvinde,Odense,kontanthjaelp,47,29-07-2024
-B0018,22,Kvinde,Randers,dagpenge,56,24-08-2024
-B0019,33,,,kontanthjaelp,16,16-04-2025
-B0020,23,,Randers,dagpenge,27,20-05-2025
-B0021,53,Andet,Aarhus,kontanthjaelp,10,
-B0022,45,Kvinde,Aalborg,,3,19-03-2024
-B0023,21,Kvinde,Randers,kontanthjaelp,,05-05-2025
-B0024,,,københavn,,42,21-10-2024
-B0025,25,Andet,Aalborg,,,17-02-2024
-B0026,32,Kvinde,,kontanthjaelp,24,22-07-2024
-B0027,58,Mand,Aalborg,uddannelseshjaelp,55,20-03-2024
-B0028,58,,Randers,,32,30-05-2024
-B0029,55,Kvinde,,,42,05-12-2024
-B0030,21,Kvinde,Aarhus,uddannelseshjaelp,18,17-09-2024
-B0031,54,Mand,Randers,dagpenge,38,07-11-2024
-B0032,55,Andet,Aalborg,uddannelseshjaelp,,16-05-2024
-B0033,43,,Aalborg,dagpenge,,13-01-2024
-B0034,21,Andet,Aalborg,dagpenge,,
-B0035,32 år,Andet,Randers,dagpenge,,03-03-2024
-B0036,,Mand,Aarhus,kontanthjaelp,29,12-05-2025
-B0037,53,Kvinde,Randers,,11,02-10-2024
-B0038,26,Andet,København,,10,11-04-2024
-B0039,36,Andet,København,kontanthjaelp,17,
-B0040,44,,København,uddannelseshjaelp,28,16-05-2025
-B0041,27,Andet,Aarhus,dagpenge,0,
-B0042,52,Andet,København,kontanthjaelp,16,12-06-2025
-B0043,25,Andet,Vejle,,,19-10-2024
-B0044,54,Kvinde,Aalborg,uddannelseshjaelp,,20-04-2025
-B0045,,Mand,Randers,dagpenge,35,22-04-2025
-B0046,53,Andet,København,dagpenge,20,22-04-2025
-B0047,61,Andet,Vejle,uddannelseshjaelp,,
-B0048,29,Mand,Vejle,,2,23-07-2024
-B0049,24,Mand,Aalborg,dagpenge,,15-11-2024
-B0050,,Mand,,dagpenge,,28-03-2024
-B0051,54,Mand,Odense,uddannelseshjaelp,,
-B0052,58,Kvinde,København,uddannelseshjaelp,22,18-01-2024
-B0053,30,Mand,Vejle,dagpenge,11,23-10-2024
-B0054,,Andet,Vejle,uddnanelseshjaelp,,14-04-2025
-B0055,24,Mand,Købhnhavn,,64,19-03-2024
-B0056,53,Kvinde,Aarhus,kontanthjaelp,24,02-06-2025
-B0057,,Kvinde,Aarhus,kontanthjaelp,5,05-04-2025
-B0058,72,,,,68,02-10-2024
-B0059,54,Kvinde,Randers,kontanthjaelp,17,31-01-2025
-B0060,21,Mand,Airhus,dagpenge,,02-08-2024
-B0061,57,Kvinde,Vejle,dagpenge,-2,
-B0062,,Kvinde,Randers,kontanthjaelp,12,17-03-2024
-B0063,,Mand,Købehnavn,kontanthjaelp,15,02-04-2024
-B0064,61,,Aalborg,dagpenge,,
-B0065,52,Kvinde,København,kontanthjaelp,49,
-B0066,45 år,Kvinde,københavn,dagpenge,0,25-09-2024
-B0067,67,,,uddannelseshjaelp,5,03-01-2025
-B0068,38,Andet,Odense,,16,15-05-2024
-B0069,47,Kvinde, København,dagpenge,52,04-06-2025
-B0070,55,,Odense,kontanthjaelp,5,13-10-2024
-B0071,47,Kvinde,Vejle,uddannelseshjaelp,9,25-04-2024
-B0072,41,mand,København,uddannelseshjaelp,25,08-01-2025
-B0073,37,Andet,Vejle,uddannelseshjaelp,37,24-08-2024
-B0074,33,Kvinde,Odense,dagpenge,2,24-05-2025
-B0075,76,Kvinde,odense,uddannelseshjaelp,25,12-05-2025
-B0076,62,Kvinde,Vejle,,1,07-02-2025
-B0077,67,Andet,,kontanthjaelp,19,26-01-2024
-B0078,33,Mand,København,dagppenge,,
-B0079,23,Kvinde,Aarhus ,kontanthjaelp,,04-01-2024
-B0080,54,,Randers,uddannelseshjaelp,,18-05-2025
-B0081,37,Mand,Odense,,5,06-04-2025
-B0082,,Mand,Aalborg,dagpenge,37,
-B0083,49,Andet,Randers,kontanthjaelp,,05-11-2024
-B0084,39,Mand,Vejle,,54,
-B0085,64,Mand,Vejle	,kontanthjaelp,48,02-03-2025
-B0086,,Kvinde,Aalborg,uddannelseshjaelp,9,18-12-2024
-B0087,36, Kvinde,Vejle,kontanthjaelp,42,20-01-2025
-B0088,,,København ,dagpenge,57,19-11-2024
-B0089,22,Mand,Vejle,kontanthjaelp,45,03-05-2024
-B0090,25,Mand,København,uddannelseshjaelp,50,05-12-2024
-B0091,50,Mand,Vejle,kontanthjaelp,56,02-01-2024
-B0092,44,Mand,Vejle,kontanthjaelp,,28-11-2024
-B0093,28,Kvinde,Aarhus,dagpenge,24,
-B0094,66,Kvinde,Aalborg,kontanthjaelp,,11-02-2025
-B0095,,Kvinde,København,dagpenge,20,02-05-2024
-B0096,27,Andet,Vejle,,,19-07-2024
-B0097,49,Mand,Aarhus,dagpenge,31,13-01-2024
-B0098,44,andet,København,uddannelseshjaelp,,23-10-2024
-B0099,20,,København,dagpenge,18,
-B0100,60,Mand,,dagpenge,46,16-01-2025
-B0101,22,,aalborg,,39,
-B0102,66,Kvinde,Vejle,kontanthjaelp,41,06-02-2025
-B0103,53,,Randers,kontanthjaelp,,03-02-2025
-B0104,54,Kvinde,Aarhus,uddannelseshjaelp,,19-03-2024
-B0105,38,Kvinde,Vejle,uddannelseshjaelp,52,
-B0106,39,Andet,Aarhus,kontanthjaelp,,14-03-2025
-B0107,62,Mand,Odnse,,45,08-10-2024
-B0108,40 år,kvinde,Randers,kontanthjaelp,,19-02-2024
-B0109,56,,vejle,ddagpenge,32,14-10-2024
-B0110,,Andet,Vejle,kontanthjaelp,40,14-04-2024
-B0111,55,,Vejle,kontanthjaelp,,
-B0112,47,Andet,,kontanthjaelp,46,19-10-2024
-B0113,22,mand,Arahus,dagpenge,44,01-06-2024
-B0114,23,Andet,Vejle,uddannelseshjaelp,51,12-09-2024
-B0115,35,,Aarhus,dagpenge,,29-09-2024
-B0116,,Andet,København,,,22-03-2025
-B0117,62,Mand,København,koontanthjaelp,58,07-06-2025
-B0118,60,Andet,Odense,dagpenge,,
-B0119,22,mand,Aarhus,dagpenge,48,13-07-2024
-B0120,77,,Aarhus,,32,17-01-2025
-B0121,64,Mand,Vejle,uddannelseshjaelp,36,14-03-2025
-B0122,62,,Aalborg,kontanthjaelp,,30-01-2024
-B0123,37,Andet,Vejle,dagpenge,52,13-02-2025
-B0124,59,Andet,aarhus,dagpenge,,27-07-2024
-B0125,54,,Aarhus,,1,23-03-2024
-B0126,61,,Aalborg,,52,20-02-2024
-B0127,46,Andet, Odense ,,43,
-B0128,,Kvinde,Vejle,kontanthjaelp,70,
-B0129,,Andet,Vejle,kontanthjaelp,51,21-05-2024
-B0130,42,Kvinde,Vejle,uddannelseshjaelp,57,20-10-2024
-B0131,60,kvinde,Vejle	,uddannelseshjaelp,45,12-05-2025
-B0132,40,Mand ,København,uddannelseshjaelp,,
-B0133,19, Andet ,Randers,kontanthjaelp,,10-05-2024
-B0134,47,kvinde,Odense,uddannelseshjaelp,41,23-06-2024
-B0135,40,Kvinde,,dagpenge,14,28-04-2025
-B0136,28,Andet,,kontanthjaelp,5,28-02-2025
-B0137,57,Mand,Vejle,dagpenge,1,17-12-2024
-B0138,25,Mand,Aalborg,kontanthjaelp,,15-10-2024
-B0139,49,Andet,Vejle,,8,31-10-2024
-B0140,21,kvinde,København,,,18-09-2024
-B0141,,Kvinde,Randers,dagpenge,23,23-09-2024
-B0142,67,Mand,Vejle,uddannelseshjaelp,6,19-02-2025
-B0143,,Mand,Odense,,24,01-09-2024
-B0144,26,Mand,Vejle,uddannelseshjaelp,,04-11-2024
-B0145,65,,København,dagpenge,,09-05-2025
-B0146,33,Andet,Aalborg	,,35,07-02-2025
-B0147,43,andet,københavn,dagpenge,3,02-05-2024
-B0148,43,,Aalborg,uddannelseshjaelp,40,20-06-2024
-B0149,49,Mand,Aarhus ,kontanthjaelp,1,14-06-2024
-B0150,23,Andet,,,40,17-03-2024
-B0017,44,kvinde,Odense,kontanthjaelp,47,29-07-2024
-B0009,41,,Odense,uddannelseshjaelp,,04-04-2024
-B0124,59,Andet,aarhus,dagpenge,,27-07-2024
-B0142,67,Mand,Vejle,uddannelseshjaelp,6,19-02-2025
-B0140,21,kvinde,København,,,18-09-2024
-B0084,39,Mand,Vejle,,54,
-B0042,52,Andet,København,kontanthjaelp,16,12-06-2025
-B0110,,Andet,Vejle,kontanthjaelp,40,14-04-2024
+student_id,alder,koen,by,uddannelse,indkomst_mdr,tilmeldingsdato
+S001,33,Andet,København,GS,19460,20-08-2025
+S002,36,Andet,Aarhus,GS,998,31-08-2025
+S003,43,Kvinde,Odense,MV,12450,07-08-2025
+S004,33,Mand,,GS,31893,01-08-2025
+S005,33,Andet,,MV,44000,23-08-2025
+S006,35,Kvinde,Odense,MV,2567,10-09-2025
+S007,,Andet,Esbjerg,MV,7843,09-09-2025
+S008,25,Kvinde,Esbjerg,GS,1521,04-08-2025
+S009,24,Mand,København,KV,13500,15-08-2025
+S010,44,Andet,Esbjerg,LV,32839,18-08-2025
+S011,35,Mand,Aarhus,LV,,12-09-2025
+S012,34,Kvinde,aarhus,KV,22948,20-08-2025
+S013,39,Mand,Aaeborg,GS,22986,22-08-2025
+S014,38,Mand,odense,MV,26618,14-08-2025
+S015,44,,Odense,KV,38484,12-09-2025
+S016,,Kvinde,aarhus,KV,28435,26-08-2025
+S017,22,Mand,Aarhus,GS,32579,06-09-2025
+S018,50,Andet,Esbjerg,GS,31860,12-08-2025
+S019,28,Mand,Aarhus,LV,39664,05-09-2025
+S020,23,Kvinde,Aalborg,GS,2023,05-08-2025
+S021,21,Kvinde,Aahus,MV,28852,25-08-2025
+S022,52,Kvinde,Odense,GS,37308,02-09-2025
+S023,44,Mand,Odeyse,KV,28095,01-09-2025
+S024,41,Andet,København,kv,24680,11-09-2025
+S025,39,Andet,Aarhus,LV,39009,14-08-2025
+S026,20,Andet,Aarhus	,MV,24496,14-09-2025
+S027,,Kviinde,Aalborg,KV,10607,08-08-2025
+S028,31,Kvinde,Esbjerg,GS,10512,26-08-2025
+S029,33,Kvinde,Odense,LV,24889,07-09-2025
+S030,39,Kvinde,Aarhus,GS,26812,02-08-2025
+S031,42,Mand,københavn,KV,7004,08-08-2025
+S032,38,Mand,Odense,KV,41252,09-09-2025
+S033,39,Kvinde,Odense,MV,28627,07-08-2025
+S034,24,Andet,Aarhus,MV,16294,16-08-2025
+S035,38,Mand,Aalborg,KV,8970,17-08-2025
+S036,19,mand,Aarhus,LV,27538,29-08-2025
+S037,45,mand, Aalborg,KV,40188,
+S038,35,Kvinde,aarhus,,9566,02-09-2025
+S039,21,Kvinde,Aalborg,LV,,04-08-2025
+S040,20,,Esbjerg,LV,9560,13-08-2025
+S041,20,Kvinde,Aarhus,KV,5262,11-09-2025
+S042,25,Andet,Esbjerg,,40115 kr,
+S043,26,Andet,Aalborg,LV,6832,01-08-2025
+S044,38,Kvinde,Aalborg,KV,4878,07-08-2025
+S045,19,Kvinde,Esbjerg,GS,18068,17-08-2025
+S046,,Andet,Aarhus,LV,20131,17-08-2025
+S047,33,Mand,Esbjerg,MV,42412,18-08-2025
+S048,29,mand,Aarhus,LV,24904,01-08-2025
+S049,33,Andet,Aarhus,MV,32013,05-09-2025
+S050,37,Mand,Aarhus,KV,9828,04-09-2025
+S051,12,Kvinde,Aarhus,GS	,28632,02-09-2025
+S052,25,Andet,Odense,GS,36150,27-08-2025
+S053,35,Mand,Aalborg,KV,5227,03-09-2025
+S054,26 år,Andet,Odense,KV,26076,06-09-2025
+S055,39,Kvinde,,LV,16734,07-08-2025
+S056,28,Mand, Esbjerg ,GS,,10-09-2025
+S057,34,Kvinde,Aalborg,mv,16898,29-08-2025
+S058,19,Andet,Aalborg,MV,32007,11-09-2025
+S059,40,Kvinde,Aalborg,MV,28925,05-08-2025
+S060,21,Mand,Esbjerg,GS,,05-09-2025
+S061,33,Kvinde,Aarhus,MV,44938,08-09-2025
+S062,39,,Esbjerg,GS,37650,12-09-2025
+S063,27,Kvinde,Esbjerg,GS,,03-08-2025
+S064,32,Andet,Aarhus,LV,22211,25-08-2025
+S065,36,,Odense,MV,2069,11-08-2025
+S066,45,Kvinde,Esbjerg,LV,34528,25-08-2025
+S067,21,Andet,Aarhus,MV,27988,31-08-2025
+S068,,Andet,Aalborg,LV,40824,11-08-2025
+S069,27,andet,Aarhus,GS,22176,01-09-2025
+S070,29,Kvinde,København	,KV,,04-09-2025
+S071,43,Andet,Aarhus,GS,6058 kr,09-09-2025
+S072,26,Mand,Aalborg,LV,8590,08-09-2025
+S073,35,Madn,esbjerg,gs,,04-08-2025
+S074,28,Andet,Aalborg,KV,13456,28-08-2025
+S075,19,Kvinde,Odense,MV,30609,01-09-2025
+S076,21,Mand,Aarhus,KV,26510,27-08-2025
+S077,337,Kvinde,Odense,,6916,19-08-2025
+0S78,43,Kvinde,Odense,KV,30962,03-09-2025
+S079,22,Kvinde,København,LV,4415,26-08-2025
+S080,31,Kvinde,,LV,5255,08-09-2025
+S081,22, Andet, København , GS ,18199,20-08-2025
+S082,28,Mand,Esbjerg,KV,19764,24-08-2025
+S083,31,kvinde,København,LV,16601,03-09-2025
+S084,21,andet,Odense,,10244,19-08-2025
+S085,19,Andet,Aalborg,KV,17419,31-08-2025
+S086,40, Mand,Aalborg,MV,28896,11-09-2025
+S087,19,Mand,København,MV,2799,18-08-2025
+S088,25,Mand,Odense,LV,,05-09-2025
+S089,25,Andet,Aalborg,KV,18950,
+S090,20,Mand,Odense,MV,16821,12-09-2025
+S0o1,34,Mand,københavn,KV ,17289,15-09-2025
+S092,31,Andet, Aalborg ,MV,41562,19-08-2025
+S093,41,Kvinde,København,LV,27614,
+S094,31,Andet,København,KV,5171,01-08-2025
+S095,32,Kvinde,Aalborg,LV,35863,16-08-2025
+S096,21,vKinde,København,GS,15243,07-09-2025
+S097,37,Kvinde,Esbjerg,GS,4732,03-08-2025
+S098,39, Mand,Odense,LV,38044,
+S099,25,Andet,København,GS,39528,11-08-2025
+S100,43, Andet,København,gs,40985,27-08-2025
+S101,40,,københavn,LV,42342,13-09-2025
+S102,27,Andet,Aalborg,gs,26066,25-08-2025
+S103,29,Kvinde,Odense,LV,9402,04-08-2025
+S104,21 år, Mand ,Aarhus,GS,26723,21-08-2025
+S105,28,Kvinde,Aarhus,KV,,26-08-2025
+S106,29,Kvinde,Odense,GS,,04-08-2025
+S107,19,Andet,København,LV,13299,07-09-2025
+S108,32 år,Kvinde,Aarhus,,6116,21-08-2025
+S109,43,Kvinde,Aalborg,LV,33691,05-08-2025
+S110,22,Mand,Aalborg,MV,45003,15-08-2025
+S111,,Mand,Odense,kv,42087,28-08-2025
+S112,26,Mand,København,LV,6861,31-08-2025
+S113,41,Kvinde,Aalborg,LV,15516,
+S114,22,kvinde,Aalorg,KV,24710,16-08-2025
+S115,19,,Esbjerg,MV,17274,03-08-2025
+S116,20,Kvinde,Aalborg,LV,19992,03-09-2025
+S117,3,Mand,Odense,LV,8988,07-08-2025
+S118,44,Mand,Esbjerg,MV,10100,30-08-2025
+S119,34,Andet,Aalborg,GS,9132,10-08-2025
+S120,24,Andet,Odense,KV,36083,16-08-2025
+S047,33,Mand,Esbjerg,MV,42412,18-08-2025
+S117,3,Mand,Odense,LV,8988,07-08-2025
+S016,,Kvinde,aarhus,KV,28435,26-08-2025
+S042,25,Andet,Esbjerg,,40115 kr,
